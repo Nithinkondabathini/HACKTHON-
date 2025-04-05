@@ -16,7 +16,6 @@
   </header>
 
   <main class="p-6 max-w-6xl mx-auto">
-    <!-- Booking Section -->
     <section class="bg-white rounded-2xl shadow p-6 mb-8">
       <h2 class="text-2xl font-semibold mb-4">Book a Session</h2>
       <form id="booking-form" class="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -32,7 +31,6 @@
       </form>
     </section>
 
-    <!-- Video Call Section -->
     <section class="bg-white rounded-2xl shadow p-6">
       <h2 class="text-2xl font-semibold mb-4">Join Video Session</h2>
       <div class="flex flex-col md:flex-row gap-4">
@@ -58,8 +56,6 @@
 
       alert(`Booking confirmed with ${mentor} on ${new Date(datetime).toLocaleString()} for ${name}`);
 
-      // Normally you would send this data to your backend here using axios
-      // axios.post('/api/book', { name, email, mentor, datetime })
     });
 
     const chatBox = document.getElementById('chat-box');
