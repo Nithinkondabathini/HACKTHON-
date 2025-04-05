@@ -1,6 +1,6 @@
 # HACKTHON- Team 146
-TEAM 146
-Team members	: K. Nithin Kumar(2303A51630)​
+# Team members	
+: K. Nithin Kumar(2303A51630)​
 			          CH. Sai Charan (2303A510I8)​
 			          K. Rohith (2303A510i2)​
 			          T. Meghana Naik(2303A510H4)​
